@@ -1,16 +1,24 @@
-### Hi there 👋
+### Senior software engineer :cowboy_hat_face:
 
-<!--
-**agamula90/agamula90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with more than 8 years of experience working as android developer, and around 2 years of experience working as full stack developer (java + vue), worked with wide variety tools and technologies, included but not limited to:
+- Programming Languages - Java / Kotlin / C++ / JS (vue.js)
+- Concurrency - android workers / java executors / kotlin coroutines
+- Dependency Injection - Hilt / Dagger / Spring
+- Databases - relational (SQLite helper / Room / PostgreSQL) / object (Realm) / NoSQL (Firebase Realtime Database)
+- OpenGL (Java Development / Native Development)
+- Source Control - Git / Mercurial / SVN
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me:
+- senior software engineer with extensive knowledge of android core, java concurrency, kotlin coroutines, fan of TDD approach
+- effective in creating high quality software, having practice in the leading team, making daily stand-ups, demoing results of the local team
+- not limited by code writing, but with a focus on processes improvements, optimisation and automation
+
+Ideal company / project / role:
+- 800+ of tech specialists
+- 12+ developers per project / 4+ per platform
+- senior android developer / senior kotlin developer
+
+📫 How to reach me:
+- email: andriihamula@gmail.com
+- linkedin: https://bit.ly/3IaCtrf
